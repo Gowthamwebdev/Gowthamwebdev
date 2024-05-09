@@ -1,7 +1,7 @@
-👋Hi there myself Gowtham.  
-🧠I am an emerging web developer.  
-🪄I have gained some basic knowledge in the field of front end dev.  
-🎯Currently learning various js libraries and frameworks.  
+-> 👋Hi there myself Gowtham.  
+-> 🧠I am an emerging web developer.  
+-> 🪄I have gained some basic knowledge in the field of front end dev.  
+-> 🎯Currently learning various js libraries and frameworks.  
 <div id="header" align="flex-start">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>  
