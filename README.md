@@ -23,10 +23,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </div> <br/><br/>
 
-![gowtham-reposit0ry's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gowthamwebdev&theme=vue-dark&hide_border=false)
+![Gowthamwebdev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gowthamwebdev&theme=vue-dark&hide_border=false)
 
-![gowtham-reposit0ry's Stats](https://github-readme-stats.vercel.app/api?username=Gowthamwebdev&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![Gowthamwebdev's Stats](https://github-readme-stats.vercel.app/api?username=Gowthamwebdev&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
-![gowtham-reposit0ry's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gowthamwebdev&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+![Gowthamwebdev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gowthamwebdev&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
-<img src="https://komarev.com/ghpvc/?username=gowtham-reposit0ry&style=flat-square&color=blue" alt=""/>
